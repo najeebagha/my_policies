@@ -1,57 +1,130 @@
-## Privacy Policy of Police Roznamcha App
+# Privacy Policy & Government Information Disclaimer
 
-NajeebAgha built the PoliceRoznamcha app as a free | ad-supported | app. This SERVICE is provided by NajeebAgha at no cost and is intended for use as is.
+**App Name:** Police Roznamcha (پولیس روزنامچہ)  
+**Developer:** Najeeb Agha  
+**Contact Email:** noormoh3@gmail.com  
+**Last Updated:** November 2024 / Effective Immediately  
 
-This page is used to inform website visitors regarding  policies with the collection, use, and disclosure of Personal Information if anyone decided to use  Service.
+---
 
-If you choose to use  Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that I collect are used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+## 1. Clear Disclaimer of Non-Official / Non-Government Status
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at PoliceRoznamcha, unless otherwise defined in this Privacy Policy.
+> **IMPORTANT NOTICE:**  
+> **This application ("Police Roznamcha") is an INDEPENDENT EDUCATIONAL TOOL and DOES NOT represent, affiliate with, endorse, or have authorization from any government entity, police department, law enforcement agency, or official government authority in Pakistan or elsewhere.**
 
-##### **Information Collection and Use**
+- This application is **NOT an official app** of the Punjab Police, Khyber Pakhtunkhwa (KP) Police, Sindh Police, Balochistan Police, Islamabad Police, National Police Bureau, or any other government department.
+- This application **does NOT provide any government services**, official citizen reporting, online FIR lodging, or official daily diary management.
+- It is solely an independent educational handbook and reference guide created to help students, clerks, law learners, and readers understand the traditional format and style of writing daily diary entries (Roznamcha).
 
-For a better experience while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to some data. The information that I request is retained on your device and is not collected by me in any way.
+---
 
-The app does use third party services that may collect information used to identify you.
+## 2. Educational Purpose & Fictitious Data Statement
 
-##### **Log Data**
+- **Educational Guide:** This application contains approximately 70 sample police daily diary (Roznamcha) reports and templates designed exclusively for educational, learning, and reference purposes.
+- **100% Fictitious Content:** All names of individuals, officers, complainant names, accused names, locations, dates, case numbers, and narrative events contained within the sample reports in this application are **completely fictitious and imaginary**.
+- Any resemblance to actual persons (living or deceased), real events, actual police diary entries, or ongoing investigations is purely coincidental.
+- Users must not use these sample reports as legal advice or as official legal documentation.
 
-I want to inform you that whenever you use  Service, in case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (“IP”) address, device name, operating system version, configuration of the app when utilising  Service, the time and date of your use of the Service, and other statistics.
+---
 
-##### **Cookies**
+## 3. Official Sources of Government Information
 
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
+In accordance with Google Play's Misleading Claims and Government Information policies, the structural formats and legal context of the daily diary (Roznamcha / Register No. II) mentioned in this educational app are derived from publicly available statutory police rules in Pakistan, specifically:
 
-\>!-- Check if this is true for your app, if unsure, just assume that you do use cookies and modify this next line -->This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+1. **The Police Rules, 1934** — specifically **Chapter XXII (22), Rule 22.48** (*The Daily Diary*):
+   - Official Police Rules Reference: [https://punjabpolice.gov.pk/policerules](https://punjabpolice.gov.pk/policerules)
+2. **Official Government Police Portals:**
+   - **Punjab Police Official Portal:** [https://punjabpolice.gov.pk](https://punjabpolice.gov.pk)
+   - **Khyber Pakhtunkhwa Police Official Portal:** [https://kppolice.gov.pk](https://kppolice.gov.pk)
+   - **Sindh Police Official Portal:** [https://sindhpolice.gov.pk](https://sindhpolice.gov.pk)
+   - **National Police Bureau (Government of Pakistan):** [https://npb.gov.pk](https://npb.gov.pk)
 
-##### **Service Providers**
+*Please note: The developer of this application has no affiliation with these government entities, and these links are provided strictly as transparent references to original, publicly accessible statutory regulations.*
 
-I may employ third-party companies and individuals due to the following reasons:
+---
 
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+## 4. Offline Application & Zero Data Collection Policy
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+- **100% Offline Functionality:** The core functionality of this application (reading and browsing the educational sample reports) works completely offline.
+- **No Personal Data Collected:** We do not collect, request, harvest, store, or transmit any personally identifiable information (PII) such as your name, phone number, national identity card number (CNIC), email address, physical address, contacts, or location.
+- **No User Account Required:** You do not need to create an account, log in, or provide any credentials to use this app.
+- **No Cloud Storage or Remote Database:** The app does not transmit any user-entered text or notes to external servers.
 
-##### **Security**
+---
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## 5. Third-Party Services & Advertising (Google AdMob)
 
-##### **Links to Other Sites**
+- The app uses **Google AdMob** to serve banner and interstitial advertisements to support ongoing maintenance.
+- Google AdMob may automatically collect non-personally identifiable diagnostic information and device identifiers (such as Android Advertising ID) in compliance with Google's Advertising policies to deliver relevant ads and detect fraud.
+- For more information on how Google processes ad data, please review Google's Privacy Policy: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads).
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+---
 
-##### **Children’s Privacy**
+## 6. Permissions
 
-This Services do not address anyone under the age of 13. I do not knowingly collect personal identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+This application requests minimal Android permissions necessary for viewing content and displaying ads:
 
-##### **Changes to This Privacy Policy**
+- `INTERNET` and `ACCESS_NETWORK_STATE`: Used solely to load ads from Google AdMob and to allow users to click external links (such as rate on Play Store or view official source websites).
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+The application **does NOT request** sensitive permissions such as Camera, Microphone, GPS Location, Contacts, or SMS.
 
-##### **Contact Us**
+---
 
-If you have any questions or suggestions about  Privacy Policy, do not hesitate to contact me.
-Noormoh3@gmail.com
+## 7. Children's Privacy
+
+This application is designed for general audiences and adult learners interested in legal drafting and police diary writing formats. We do not knowingly collect any information from children under the age of 13.
+
+---
+
+## 8. Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be posted in this document and accessible within the app.
+
+---
+
+## 9. Contact Us
+
+If you have any questions, feedback, or concerns regarding this Privacy Policy, disclaimer, or app content, please contact us at:
+
+- **Developer:** Najeeb Agha
+- **Email:** [noormoh3@gmail.com](mailto:noormoh3@gmail.com)
+
+---
+
+---
+
+# پرائیویسی پالیسی اور حکومتی معلومات کے متعلق واضح تنبیہ (اردو)
+
+### 1. غیر سرکاری حیثیت کی واضح تنبیہ (Disclaimer)
+
+> **اہم وضاحت و اعلان:**  
+> **یہ ایپلی کیشن ("پولیس روزنامچہ") ایک آزاد اور غیر سرکاری تعلیمی گائیڈ ہے، اور یہ کسی بھی حکومتی ادارے، پولیس ڈیپارٹمنٹ یا قانون نافذ کرنے والے ادارے کی نمائندگی نہیں کرتی اور نہ ہی ان سے کوئی الحاق رکھتی ہے۔**
+
+- یہ ایپ پنجاب پولیس، خیبر پختونخوا پولیس، سندھ پولیس، بلوچستان پولیس، اسلام آباد پولیس یا حکومت پاکستان کی آفیشل ایپ **نہیں** ہے۔
+- یہ ایپ کوئی سرکاری سروس (جیسے آن لائن ایف آئی آر، پولیس کمپلینٹ یا سرکاری روزنامچہ اندراج) فراہم نہیں کرتی۔
+- یہ صرف پولیس روزنامچہ لکھنے کا طریقہ اور اس کا روایتی اسلوب سکھانے کے لیے ایک تعلیمی رہنمائی کتاب ہے۔
+
+### 2. تعلیمی مقصد اور تمام ڈیٹا کا فرضی ہونا (Fictitious Data)
+
+- اس ایپ میں تقریباً 70 روزنامچہ رپورٹیں صرف سیکھنے اور سمجھنے کی غرض سے بطور نمونہ شامل کی گئی ہیں۔
+- **تمام نام، کردار، تاریخیں، مقامات اور واقعات 100 فیصد فرضی ہیں۔** ان کا کسی بھی حقیقی شخص (زندہ یا مردہ)، اصل پولیس ریکارڈ یا سچے واقعے سے کوئی تعلق نہیں ہے۔
+
+### 3. سرکاری معلومات کے اصل ذرائع (Official Government Sources)
+
+روزنامچہ (رجسٹر نمبر 2) کا عمومی ڈھانچہ اور حوالہ جات پاکستان کے پبلک "پولیس رولز 1934" (باب 22، رول 22.48) پر مبنی ہیں، جو درج ذیل آفیشل سرکاری ویب سائٹس پر عوامی طور پر دستیاب ہیں:
+
+1. پنجاب پولیس - پولیس رولز: [https://punjabpolice.gov.pk/policerules](https://punjabpolice.gov.pk/policerules)
+2. پنجاب پولیس پورٹل: [https://punjabpolice.gov.pk](https://punjabpolice.gov.pk)
+3. خیبر پختونخوا پولیس: [https://kppolice.gov.pk](https://kppolice.gov.pk)
+4. نیشنل پولیس بیورو پاکستان: [https://npb.gov.pk](https://npb.gov.pk)
+
+### 4. مکمل آف لائن اور ڈیٹا کلیکشن کی نفی (Zero Data Collection)
+
+- یہ ایپ **مکمل طور پر آف لائن** کام کرتی ہے۔
+- یہ صارفین کا کوئی بھی ذاتی ڈیٹا، شناختی کارڈ، فون نمبر، رابطہ فہرست، یا لوکیشن حاصل یا محفوظ نہیں کرتی۔
+- ایپ کے استعمال کے لیے کسی اکاؤنٹ یا سائن ان کی ضرورت نہیں ہے۔
+
+### 5. رابطہ
+
+کسی بھی سوال یا رہنمائی کے لیے درج ذیل ای میل پر رابطہ کیا جا سکتا ہے:  
+**ای میل:** noormoh3@gmail.com
