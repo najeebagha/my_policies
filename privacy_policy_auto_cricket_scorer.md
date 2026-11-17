@@ -1,7 +1,7 @@
 # Privacy Policy for Auto Cricket Scorer
 
 **Effective Date:** October 24, 2026  
-**Last Updated:** October 24, 2026  
+**Last Updated:** November 18, 2026  
 **Developer:** Najeebullah (Najeeb Agha)  
 **Package Name:** `com.aghaapps.autocricketscorer`  
 **Contact:** [noormoh3@gmail.com](mailto:noormoh3@gmail.com) | Phone: +923003900182 | Website: [https://najeebagha.github.io](https://najeebagha.github.io)
@@ -63,12 +63,12 @@ We adhere strictly to Google Play's Photo, Video, and Storage Permissions Polici
 
 ---
 
-### 5. Foreground Service (`FOREGROUND_SERVICE_DATA_SYNC`)
+### 5. Foreground Service (`FOREGROUND_SERVICE_SPECIAL_USE`)
 
-To provide an uninterrupted live broadcast overlay for OBS and Prism Live Studio:
-
-- The App uses the `FOREGROUND_SERVICE_DATA_SYNC` permission solely to prevent the local hotspot HTTP server from disconnecting when the App is minimized or running in the background during an ongoing live cricket match.
-- A clear, non-intrusive system notification is shown while the broadcast service is running, which you can stop at any time by stopping the broadcast or closing the match.
+To provide an uninterrupted live broadcast overlay for OBS, Prism Live Studio, and local browsers:
+- The App uses the `FOREGROUND_SERVICE_SPECIAL_USE` permission solely to run an on-device local HTTP server (`localhost`) over Wi-Fi or hotspot, preventing live cricket score feeds from disconnecting when the App is minimized or running in the background during an ongoing match.
+- A clear, non-intrusive system notification is shown while the broadcast service is running, allowing you to stop the broadcast at any time.
+- To conserve battery and system resources, the foreground service and local HTTP server automatically shut down after 1 hour of running in the background if the App is not reopened.
 
 ---
 
