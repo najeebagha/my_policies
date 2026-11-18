@@ -3,7 +3,7 @@
 **App Name:** Police Roznamcha (پولیس روزنامچہ)  
 **Developer:** Najeeb Agha  
 **Contact Email:** noormoh3@gmail.com  
-**Last Updated:** November 2024 / Effective Immediately  
+**Last Updated:** 18 November 2026 / Effective Immediately  
 
 ---
 
